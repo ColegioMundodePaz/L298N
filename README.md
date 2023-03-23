@@ -5,7 +5,6 @@ Práctica de robótica en la que aprenderemos a controlar motores DC con el mód
 * 1 x Arduino Uno
 * 2 x Motor DC
 * 1 x Módulo L298N
-* 1 x Protoboard
 * Cables Dupont o puentes para protoboard
 
 ## Instrucciones
