@@ -1,4 +1,4 @@
-# L298N con Arduino
+# L298N con Arduino ![Arduino](https://img.shields.io/badge/arduino-Rob%C3%B3tica-blue?logo=arduino)
 Práctica de robótica en la que aprenderemos a controlar motores DC con el módulo L298N y Arduino
 
 ## Materiales
